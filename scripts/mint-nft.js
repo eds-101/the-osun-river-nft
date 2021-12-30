@@ -52,3 +52,5 @@ async function mintNFT(tokenURI) {
     });
 
 }
+
+mintNFT("https://ipfs.io/ipfs/QmetjFzuZj6eucrWPV4YVpafQykqofrBL3e8i4dNUBoiP5") // pass the CID to the JSON file uploaded to Pinata
